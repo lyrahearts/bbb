@@ -1,0 +1,72 @@
+{
+    "Lyra2": {
+    "name": "Lyra2.png",
+    "x": 1969,
+    "y": 1017,
+    "width": 306,
+    "height": 474 
+},
+    "free": {
+    "name": "free.png",
+    "x": 3338,
+    "y": 446,
+    "width": 755,
+    "height": 437 
+},
+    "mane": {
+    "name": "mane.png",
+    "x": 3271,
+    "y": 883,
+    "width": 822,
+    "height": 349 
+},
+    "hangout": {
+    "name": "hangout.png",
+    "x": 2275,
+    "y": 821,
+    "width": 550,
+    "height": 273 
+},
+    "oczone2": {
+    "name": "oczone2.png",
+    "x": 3300,
+    "y": 1095,
+    "width": 443,
+    "height": 381 
+},
+    "111": {
+    "name": "111.png",
+    "x": -1938,
+    "y": -1908,
+    "width": 433,
+    "height": 244 
+},
+    "11": {
+    "name": "11.png",
+    "x": -1938,
+    "y": -1918,
+    "width": 98,
+    "height": 9 
+},
+   "LyraBonBench2": {
+    "name": "LyraBonBench2.png",
+    "x": -2361,
+    "y": -2446,
+    "width": 145,
+    "height": 80 
+},
+   "KarinSultan": {
+    "name": "KarinSultan.png",
+    "x": 307,
+    "y": -904,
+    "width": 204,
+    "height": 200 
+},  
+   "Foe": {
+    "name": "Foe.png",
+    "x": 2275,
+    "y": 1095,
+    "width": 1024,
+    "height": 723
+   }
+}
