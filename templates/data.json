@@ -7,14 +7,6 @@
     "height": 186
    },
    
-   "1": {
-    "name": "1.png",
-    "x": 3272,
-    "y": 213,
-    "width": 305,
-    "height": 401
-   },
-   
    "2": {
     "name": "2.png",
     "x": 2274,
@@ -23,8 +15,8 @@
     "height": 725
    },
 
-   "3": {
-    "name": "3.png",
+   "RFfoeMLP": {
+    "name": "RFfoeMLP.png",
     "x": -2155,
     "y": -2062,
     "width": 2432,
