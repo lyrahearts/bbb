@@ -1,4 +1,20 @@
 {
+   "fivt": {
+    "name": "fivt.png",
+    "x": 3660,
+    "y": 905,
+    "width": 40,
+    "height": 24
+   },
+   
+   "ktrk": {
+    "name": "ktrk.png",
+    "x": 3501,
+    "y": 1018,
+    "width": 112,
+    "height": 56
+   },
+   
    "RF2": {
     "name": "RF2.png",
     "x": 3216,
