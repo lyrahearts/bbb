@@ -1,18 +1,10 @@
 {
-   "fivt": {
-    "name": "fivt.png",
-    "x": 3660,
-    "y": 905,
-    "width": 40,
-    "height": 24
-   },
-   
-   "ktrk": {
-    "name": "ktrk.png",
-    "x": 3501,
-    "y": 1018,
-    "width": 112,
-    "height": 56
+   "mane": {
+    "name": "mane.png",
+    "x": 3271,
+    "y": 883,
+    "width": 825,
+    "height": 349
    },
    
    "RF2": {
