@@ -23,11 +23,19 @@
     "height": 725
    },
 
-   "RFfoeMLP": {
-    "name": "RFfoeMLP.png",
+   "eq_arms": {
+    "name": "eq_arms.png",
     "x": -2155,
     "y": -2062,
-    "width": 2432,
+    "width": 401,
+    "height": 402
+   },   
+   
+   "RFfoe2": {
+    "name": "RFfoe2.png",
+    "x": -927,
+    "y": -2062,
+    "width": 1204,
     "height": 603
    }
 }
