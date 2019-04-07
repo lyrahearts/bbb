@@ -22,6 +22,14 @@
     "width": 1026,
     "height": 725
    },
+   
+   "faustz": {
+    "name": "faustz.png",
+    "x": 2825,
+    "y": 821,
+    "width": 2230,
+    "height": 1365
+   },    
 
    "eq_arms": {
     "name": "eq_arms.png",
