@@ -13,27 +13,6 @@
     "width": 2434,
     "height": 605 
 },   
-   "caesar1": {
-    "name": "caesar1.png",
-    "x": -1413,
-    "y": 2522,
-    "width": 53,
-    "height": 67 
-},
-   "text1": {
-    "name": "text1.png",
-    "x": 2640,
-    "y": -3284,
-    "width": 68,
-    "height": 36 
-},
-   "text2": {
-    "name": "text2.png",
-    "x": -1048,
-    "y": -268,
-    "width": 126,
-    "height": 35 
-},
    "aaj2": {
     "name": "aaj2.png",
     "x": 701,
@@ -75,5 +54,19 @@
     "y": 821,
     "width": 2230,
     "height": 1365
+ }
+   "hangout": {
+    "name": "hangout.png",
+    "x": 2275,
+    "y": 821,
+    "width": 550,
+    "height": 273
+ },
+   "sg_Luna": {
+    "name": "sg_Luna.png",
+    "x": 3005,
+    "y": 35,
+    "width": 266,
+    "height": 786
  }
 }
