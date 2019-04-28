@@ -62,11 +62,11 @@
     "width": 550,
     "height": 273
  },
-    "sg_Luna": {
-    "name": "sg_Luna.png",
+    "sg_Luna_3": {
+    "name": "sg_Luna_3.png",
     "x": 3005,
-    "y": 35,
+    "y": 34,
     "width": 266,
-    "height": 786
+    "height": 787
  }
 }
