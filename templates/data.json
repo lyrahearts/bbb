@@ -55,18 +55,18 @@
     "width": 2230,
     "height": 1365
  },
-   "sg_Luna": {
-    "name": "sg_Luna.png",
-    "x": 3005,
-    "y": 35,
-    "width": 266,
-    "height": 786
- },
     "hangout_8": {
     "name": "hangout_8.png",
     "x": 2275,
     "y": 821,
     "width": 550,
     "height": 273
+ },
+    "sg_Luna": {
+    "name": "sg_Luna.png",
+    "x": 3005,
+    "y": 35,
+    "width": 266,
+    "height": 786
  }
 }
