@@ -1,4 +1,25 @@
 {
+  "fact": {
+    "name": "fact.png",
+    "x": 1969,
+    "y": 1162,
+    "width": 305,
+    "height": 327 
+},
+  "st11": {
+    "name": "st11.png",
+    "x": 3881,
+    "y": -572,
+    "width": 211,
+    "height": 192 
+},
+  "pzc2": {
+    "name": "pzc2.png",
+    "x": 2274,
+    "y": 80,
+    "width": 201,
+    "height": 132 
+},  
   "mix3free": {
     "name": "mix3free.png",
     "x": 3271,
@@ -13,8 +34,8 @@
     "width": 796,
     "height": 382 
 },
- "mix2mane": {
-    "name": "mix2mane.png",
+ "mix2mane_0": {
+    "name": "mix2mane_0.png",
     "x": 3271,
     "y": 213,
     "width": 825,
