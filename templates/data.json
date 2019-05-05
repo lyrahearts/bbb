@@ -1,5 +1,12 @@
 {
- "Tia5": {
+ "PinkPixel": {
+    "name": "PinkPixel.png",
+    "x": 2638,
+    "y": -700,
+    "width": 250,
+    "height": 250 
+},   
+   "Tia5": {
     "name": "Tia5.png",
     "x": 2885,
     "y": -666,
