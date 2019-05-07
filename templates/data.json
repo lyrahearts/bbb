@@ -27,29 +27,29 @@
     "width": 201,
     "height": 132 
 },  
-  "mix3free": {
-    "name": "mix3free.png",
+  "mix3free_1": {
+    "name": "mix3free_1.png",
     "x": 3271,
     "y": -315,
     "width": 825,
     "height": 528 
 },
- "mix1oczone": {
-    "name": "mix1oczone.png",
+ "mix1oczone_1": {
+    "name": "mix1oczone_1.png",
     "x": 3300,
     "y": 1094,
     "width": 796,
     "height": 382 
 },
- "mix2mane_0": {
-    "name": "mix2mane_0.png",
+ "mix2mane_1": {
+    "name": "mix2mane_1.png",
     "x": 3271,
     "y": 213,
     "width": 825,
     "height": 881 
 }, 
- "PinkPixel": {
-    "name": "PinkPixel.png",
+ "PinkPixel_1": {
+    "name": "PinkPixel_1.png",
     "x": 2636,
     "y": -700,
     "width": 250,
