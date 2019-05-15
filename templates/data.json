@@ -1,4 +1,11 @@
 {
+   "hz2": {
+    "name": "hz2.png",
+    "x": -2312,
+    "y": 1112,
+    "width": 186,
+    "height": 220 
+},
   "fact": {
     "name": "fact.png",
     "x": 1969,
