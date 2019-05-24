@@ -12,5 +12,12 @@
     "y": 100,
     "width": 39,
     "height": 29
+ },
+   "Dog": {
+    "name": "PR.png",
+    "x": -580,
+    "y": 1054,
+    "width": 200,
+    "height": 300
  }
 }
