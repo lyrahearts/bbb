@@ -22,7 +22,9 @@ var range = 25;
 window.factions = {
     "New Lunar Republic":{"url":"https://endlessnightnlr.github.io/master/","color":"aqua","type":"2"},
     "MLP : Pixel":{"url":"https://raw.githubusercontent.com/Autumn-Blaze/ponehs/master/","color":"#1992E3","type":"1"},
-    "Arstotzka":{"url":"https://endlessnightnlr.github.io/master/","color":"red","type":"Arstotzka"}
+    "Lyra":{"url":"https://raw.githubusercontent.com/lyrahearts/bbb/master/","color":"#35FF35","type":"1"},
+    "hz":{"url":"https://raw.githubusercontent.com/ShoNCUdoS/fix/master/","color":"#1992E3","type":"1"},
+    "...":{"url":"https://raw.githubusercontent.com/rony2627/1234567890/master/","color":"grey","type":"1"}
 };
 window.faction = Object.keys(factions)[0];
 
