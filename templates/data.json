@@ -18,6 +18,13 @@
     "x": 3272,
     "y": 213,
     "width": 305,
-    "height": 400
+    "height": 400 
+ },
+    "test": {
+    "name": "test.png",
+    "x": -3830,
+    "y": 1000,
+    "width": 125,
+    "height": 70
  }
 }
