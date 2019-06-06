@@ -26,5 +26,12 @@
     "y": 1000,
     "width": 125,
     "height": 70
+ },
+    "flaty": {
+    "name": "flaty.png",
+    "x": -1404,
+    "y": -2385,
+    "width": 51,
+    "height": 50
  }
 }
