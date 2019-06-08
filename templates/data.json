@@ -29,10 +29,10 @@
  },
     "test": {
     "name": "test.png",
-    "x": -3830,
-    "y": 1000,
-    "width": 125,
-    "height": 70
+    "x": -2428,
+    "y": -2567,
+    "width": 1000,
+    "height": 1500
  },
     "flaty": {
     "name": "flaty.png",
