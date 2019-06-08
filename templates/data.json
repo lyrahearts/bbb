@@ -26,13 +26,7 @@
     "y": 213,
     "width": 305,
     "height": 400 
- },
-    "test": {
-    "name": "test.png",
-    "x": -2428,
-    "y": -2567,
-    "width": 1000,
-    "height": 1500
+
  },
     "flaty": {
     "name": "flaty.png",
