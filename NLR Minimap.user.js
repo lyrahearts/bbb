@@ -21,7 +21,7 @@ var range = 25;
 
 window.factions = {
     "New Lunar Republic":{"url":"https://endlessnightnlr.github.io/master/","color":"aqua","type":"2"},
-    "hz":{"url":"https://raw.githubusercontent.com/ShoNCUdoS/fix/master/","color":"aqua","type":"2"}
+    "hz":{"url":"https://ShoNCUdoS.github.io/master/","color":"aqua","type":"2"}
 };
 window.faction = Object.keys(factions)[0];
 
