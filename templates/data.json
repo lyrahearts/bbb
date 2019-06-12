@@ -11,7 +11,14 @@
     "x": 3007,
     "y": -448,
     "width": 163,
-    "height": 300
+    "height": 300 
+  },
+   "world": {
+    "name": "world.png",
+    "x": -270,
+    "y": 1731,
+    "width": 1357,
+    "height": 629
  },   
    "pokemon3": {
     "name": "pokemon3.png",
