@@ -5,13 +5,20 @@
     "y": 1054,
     "width": 200,
     "height": 300
- },
+  },
    "FoxFinal": {
     "name": "FoxFinal.png",
     "x": 3007,
     "y": -448,
     "width": 163,
     "height": 300 
+  },
+   "Remov": {
+    "name": "Remov.png",
+    "x": 3216,
+    "y": -835,
+    "width": 196,
+    "height": 166 
   },
    "world": {
     "name": "world.png",
