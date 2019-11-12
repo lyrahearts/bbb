@@ -18,7 +18,14 @@
     "x": 3216,
     "y": -835,
     "width": 196,
-    "height": 166 
+    "height": 166
+  },
+   "CMC": {
+    "name": "CMC.png",
+    "x": 3974,
+    "y": 378,
+    "width": 123,
+    "height": 37 
   },
    "world": {
     "name": "world.png",
